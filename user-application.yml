@@ -6,6 +6,6 @@ spring:
     mongodb:
       host: localhost
       port: 27017
-      username: Eraycan
+      username: eraycan
       password: root
       database: UserProfileDB
